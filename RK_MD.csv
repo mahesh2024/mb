@@ -1,0 +1,84 @@
+Label;Maturity;Outstanding (%);Campaign
+10Y Linear;0;100.0000000000;Nro_Ref_Static
+10Y Linear;120;0.0000000000;Nro_Ref_Static
+3M Bullet;0;100.0000000000;Nro_Ref_Static
+3M Bullet;1;100.0000000000;Nro_Ref_Static
+3M Bullet;2;100.0000000000;Nro_Ref_Static
+3M Bullet;3;0.0000000000;Nro_Ref_Static
+3M Linear;0;100.0000000000;Nro_Ref_Static
+3M Linear;1;66.6666666667;Nro_Ref_Static
+3M Linear;2;33.3333333333;Nro_Ref_Static
+3M Linear;3;0.0000000000;Nro_Ref_Static
+5Y Linear;0;100.0000000000;Nro_Ref_Static
+5Y Linear;11;100.0000000000;Nro_Ref_Static
+5Y Linear;12;80.0000000000;Nro_Ref_Static
+5Y Linear;23;80.0000000000;Nro_Ref_Static
+5Y Linear;24;60.0000000000;Nro_Ref_Static
+5Y Linear;35;60.0000000000;Nro_Ref_Static
+5Y Linear;36;40.0000000000;Nro_Ref_Static
+5Y Linear;47;40.0000000000;Nro_Ref_Static
+5Y Linear;48;20.0000000000;Nro_Ref_Static
+5Y Linear;59;20.0000000000;Nro_Ref_Static
+5Y Linear;60;0.0000000000;Nro_Ref_Static
+Cptes Epargne PME;0;100.0000000000;Nro_Ref_Static
+Cptes Epargne PME;1;90.0000000000;Nro_Ref_Static
+Cptes Epargne PME;12;83.0000000000;Nro_Ref_Static
+Cptes Epargne PME;24;75.0000000000;Nro_Ref_Static
+Cptes Epargne PME;36;68.0000000000;Nro_Ref_Static
+Cptes Epargne PME;48;60.0000000000;Nro_Ref_Static
+Cptes Epargne PME;60;53.0000000000;Nro_Ref_Static
+Cptes Epargne PME;120;15.0000000000;Nro_Ref_Static
+Cptes Epargne PME;144;0.0000000000;Nro_Ref_Static
+Credit Card;0;100.0000000000;New_Union_NRO
+Credit Card;1;66.0000000000;New_Union_NRO
+Credit Card;12;56.0000000000;New_Union_NRO
+Credit Card;24;50.0000000000;New_Union_NRO
+Credit Card;36;45.0000000000;New_Union_NRO
+Credit Card;48;34.0000000000;New_Union_NRO
+Credit Card;60;22.0000000000;New_Union_NRO
+Credit Card;72;11.0000000000;New_Union_NRO
+Credit Card;84;0.0000000000;New_Union_NRO
+Overdraft;0;100.0000000000;New_Union_NRO
+Overdraft;1;66.0000000000;New_Union_NRO
+Overdraft;12;56.0000000000;New_Union_NRO
+Overdraft;24;50.0000000000;New_Union_NRO
+Overdraft;36;45.0000000000;New_Union_NRO
+Overdraft;48;34.0000000000;New_Union_NRO
+Overdraft;60;22.0000000000;New_Union_NRO
+Overdraft;72;11.0000000000;New_Union_NRO
+Overdraft;84;0.0000000000;New_Union_NRO
+R.O;0;100.0000000000;Nro_Ref_Static
+R.O;1;85.0000000000;Nro_Ref_Static
+R.O;2;84.0000000000;Nro_Ref_Static
+R.O;3;83.0000000000;Nro_Ref_Static
+R.O;4;82.0000000000;Nro_Ref_Static
+R.O;5;81.0000000000;Nro_Ref_Static
+R.O;6;80.0000000000;Nro_Ref_Static
+R.O;7;80.0000000000;Nro_Ref_Static
+R.O;8;79.0000000000;Nro_Ref_Static
+R.O;9;78.0000000000;Nro_Ref_Static
+R.O;10;77.0000000000;Nro_Ref_Static
+R.O;11;76.0000000000;Nro_Ref_Static
+R.O;12;75.0000000000;Nro_Ref_Static
+R.O;24;64.0000000000;Nro_Ref_Static
+R.O;36;53.0000000000;Nro_Ref_Static
+R.O;48;43.0000000000;Nro_Ref_Static
+R.O;60;32.0000000000;Nro_Ref_Static
+R.O;72;22.0000000000;Nro_Ref_Static
+R.O;84;11.0000000000;Nro_Ref_Static
+R.O;96;0.0000000000;Nro_Ref_Static
+R.O;108;0.0000000000;Nro_Ref_Static
+R.O;120;0.0000000000;Nro_Ref_Static
+Savings;0;100.0000000000;Nro_Ref_Static
+Savings;1;50.0000000000;Nro_Ref_Static
+Savings;12;40.0000000000;Nro_Ref_Static
+Savings;24;0.0000000000;Nro_Ref_Static
+Sight Deposits;0;100.0000000000;Nro_Ref_Static
+Sight Deposits;1;75.0000000000;Nro_Ref_Static
+Sight Deposits;12;55.0000000000;Nro_Ref_Static
+Sight Deposits;24;37.0000000000;Nro_Ref_Static
+Sight Deposits;36;18.0000000000;Nro_Ref_Static
+Sight Deposits;48;0.0000000000;Nro_Ref_Static
+Undetermined;0;100.0000000000;Nro_Ref_Static
+Undetermined;599;100.0000000000;Nro_Ref_Static
+Undetermined;600;0.0000000000;Nro_Ref_Static
